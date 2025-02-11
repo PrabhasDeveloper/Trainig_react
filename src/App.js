@@ -1,14 +1,15 @@
 import React from 'react';
 import './App.css';
-import UseEffectEx from './components/UseEffectEx';
+import RefExamples from './components/hookexamples/RefExamples';
+// import UseEffectEx from './components/UseEffectEx';
 
 
 
 function App() {
   return (
     <div>
-      <h1>Welcome to the React App</h1>
-      <UseEffectEx/>
+      {/* <UseEffectEx/> */}
+      <RefExamples/>
 
     </div>
   );
