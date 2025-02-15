@@ -1,0 +1,11 @@
+/* src/App.css */
+.App {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .card-container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
